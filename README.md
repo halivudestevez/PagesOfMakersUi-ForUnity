@@ -14,7 +14,7 @@ Contact me:
 - if you developed a feature and would like to share
 - if you stucked in usage, need any support.
 
-halivudestevez@gmail.com
+Email: halivudestevez@gmail.com
 
 No social, or phone yet. Maybe later. I'm a rookie about sharing stuff.
 
@@ -39,11 +39,11 @@ Render pipelinetól független.
 Üzenj: 
 - ha van kapcsolódó megvalósítani való ötleted
 - ha hozzáfejlesztettél valami jót
-- ha elakadtál a használatában, és jól jönne egy kis segítség.
+- ha elakadtál a használatában, és jól jönne egy kis segítség
+- ha tudsz segíteni ennek a cuccnak a megosztásában
 
-halivudestevez@gmail.com
+Email: halivudestevez@gmail.com
 
-No social, or phone yet. Maybe later. I'm a rookie about sharing stuff.
 
 ####Felhasználás engedélye
 Ingyenesen használható a játékban felhasználva. 
