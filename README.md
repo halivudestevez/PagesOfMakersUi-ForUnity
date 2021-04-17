@@ -18,16 +18,15 @@ Email: halivudestevez@gmail.com
 
 No social, or phone yet. Maybe later. I'm a rookie about sharing stuff.
 
-####Licence
+### Licence
 Free to use in your game production. 
 You are allowed to fix or develop it.
 If you would like to monetize it in itself, outside of a game ... let's talk about terms and conditions.
 
-#### Exlusion of liability and responsibility.
+### Exlusion of liability and responsibility.
 You take all the risks and responsibility.
 
-
-##Magyarul
+## Magyarul
 A csomag vagy modul célja, hogy megjeleníthesd formázva a játék készítőinek listáját.
 Leginkább közepes méretű csapatok számára alkalmas.
 Olyasmi, mint a vége főcím utáni stáblista funkció, de görgetés helyett lapozással megvalósítva.
@@ -35,7 +34,7 @@ Olyasmi, mint a vége főcím utáni stáblista funkció, de görgetés helyett 
 Render pipelinetól független.
 
 
-### Contact
+### Kapcsolat
 Üzenj: 
 - ha van kapcsolódó megvalósítani való ötleted
 - ha hozzáfejlesztettél valami jót
@@ -44,8 +43,7 @@ Render pipelinetól független.
 
 Email: halivudestevez@gmail.com
 
-
-####Felhasználás engedélye
-Ingyenesen használható a játékban felhasználva. 
+### Felhasználás engedélye
+Ingyenesen használható Unity játékban felhasználva. 
 Továbbfejleszthető.
 Ha magában értékesítenéd ... akkor egyeztessünk.
